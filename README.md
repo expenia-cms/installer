@@ -43,7 +43,7 @@ Copyright (C) 2022-2022. mynosci
 
 
 # README in English
-# :gear : Official installer of Expenia CMS
+# ⚙️ Official installer of Expenia CMS
 ![made-with-bash](https://img.shields.io/badge/-Made%20with%20Bash-1f425f.svg)
 
 Official Expenia installer script: 
